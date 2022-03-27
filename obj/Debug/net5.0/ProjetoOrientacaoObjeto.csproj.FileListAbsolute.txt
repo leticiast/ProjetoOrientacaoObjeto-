@@ -1,0 +1,16 @@
+C:\Users\letic\OneDrive\Área de Trabalho\Projetos do curso\ProjetoOrientacaoObjeto\bin\Debug\net5.0\ProjetoOrientacaoObjeto.exe
+C:\Users\letic\OneDrive\Área de Trabalho\Projetos do curso\ProjetoOrientacaoObjeto\bin\Debug\net5.0\ProjetoOrientacaoObjeto.deps.json
+C:\Users\letic\OneDrive\Área de Trabalho\Projetos do curso\ProjetoOrientacaoObjeto\bin\Debug\net5.0\ProjetoOrientacaoObjeto.runtimeconfig.json
+C:\Users\letic\OneDrive\Área de Trabalho\Projetos do curso\ProjetoOrientacaoObjeto\bin\Debug\net5.0\ProjetoOrientacaoObjeto.runtimeconfig.dev.json
+C:\Users\letic\OneDrive\Área de Trabalho\Projetos do curso\ProjetoOrientacaoObjeto\bin\Debug\net5.0\ProjetoOrientacaoObjeto.dll
+C:\Users\letic\OneDrive\Área de Trabalho\Projetos do curso\ProjetoOrientacaoObjeto\bin\Debug\net5.0\ref\ProjetoOrientacaoObjeto.dll
+C:\Users\letic\OneDrive\Área de Trabalho\Projetos do curso\ProjetoOrientacaoObjeto\bin\Debug\net5.0\ProjetoOrientacaoObjeto.pdb
+C:\Users\letic\OneDrive\Área de Trabalho\Projetos do curso\ProjetoOrientacaoObjeto\obj\Debug\net5.0\ProjetoOrientacaoObjeto.csproj.AssemblyReference.cache
+C:\Users\letic\OneDrive\Área de Trabalho\Projetos do curso\ProjetoOrientacaoObjeto\obj\Debug\net5.0\ProjetoOrientacaoObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\letic\OneDrive\Área de Trabalho\Projetos do curso\ProjetoOrientacaoObjeto\obj\Debug\net5.0\ProjetoOrientacaoObjeto.AssemblyInfoInputs.cache
+C:\Users\letic\OneDrive\Área de Trabalho\Projetos do curso\ProjetoOrientacaoObjeto\obj\Debug\net5.0\ProjetoOrientacaoObjeto.AssemblyInfo.cs
+C:\Users\letic\OneDrive\Área de Trabalho\Projetos do curso\ProjetoOrientacaoObjeto\obj\Debug\net5.0\ProjetoOrientacaoObjeto.csproj.CoreCompileInputs.cache
+C:\Users\letic\OneDrive\Área de Trabalho\Projetos do curso\ProjetoOrientacaoObjeto\obj\Debug\net5.0\ProjetoOrientacaoObjeto.dll
+C:\Users\letic\OneDrive\Área de Trabalho\Projetos do curso\ProjetoOrientacaoObjeto\obj\Debug\net5.0\ref\ProjetoOrientacaoObjeto.dll
+C:\Users\letic\OneDrive\Área de Trabalho\Projetos do curso\ProjetoOrientacaoObjeto\obj\Debug\net5.0\ProjetoOrientacaoObjeto.pdb
+C:\Users\letic\OneDrive\Área de Trabalho\Projetos do curso\ProjetoOrientacaoObjeto\obj\Debug\net5.0\ProjetoOrientacaoObjeto.genruntimeconfig.cache
